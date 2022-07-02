@@ -216,13 +216,13 @@ Basically - This is the step where damage/defense stats of creatures reset all n
 
         Until the cleanup step at the end of the turn, The Bear 
         will have 3 damage assigned to it meaning that if it takes
-         2 more damage, it will die.
+        2 more damage, it will die.
 
         This isn't super prevalent but in decks (usually Red) 
         that deal damage with spells, 
         it can be used in conjunction with blocking strong creatures
-         with weak creatures in order to trick the opponent into 
-          their creature to take damage.
+        with weak creatures in order to trick the opponent into 
+        their creature to take damage.
    
  
 
