@@ -6,12 +6,13 @@ Tips and Guidelines for Slapping with Samurai
 Every rule has cards that can stop it from happening normally. In MTG cards that say “don’t” do something always overpower cards that say “do” something.
  
     EX: A card says everyone draws 3 extra cards instead of one at the draw step, however another card says 
-    players **Do Not** draw extra cards.     
+    players Do Not draw extra cards.     
+    
     This means players do not draw extra cards.
  
-So when you see a rule, just know that it stands until otherwise changed by a card.
-So when you see a rule, just know that it stands until otherwise changed by a card.
-So when you see a rule, just know that it stands until otherwise changed by a card.
+<h1>So when you see a rule, just know that it stands until otherwise changed by a card.</h1>
+
+
  
 # General MTG Rules:
 ## These rules set up the foundation for the game.
@@ -46,10 +47,11 @@ You can play the same spells during each of these Main Phases, the only differen
 This is where spells happen. Imagine a stack of papers with orders on them. As players play spells they 'stack' on top of one another and are resolved/happen in the reverse order of | Newest -> Oldest |. The game will read the orders in the order of the stack, and the spells will happen in that order.
 Ex: player A casts a creature spell, Player B counters that spell, Player A counters the other players counterspell.
  
-    STACK:
-    - Player A counter - This will take place 1st, removing Player B counter spell
-    - Player B counter - Since this spell will be countered, it will not resolve and cannot target the creature
-    - Player A creature - This spell is now safe and will enter the battlefield as a creature.
+STACK:
+- Player A counter - This will take place 1st, removing Player B counter spell
+- Player B counter - Since this spell will be countered, it will not resolve and cannot 
+target the creature
+- Player A creature - This spell is now safe and will enter the battlefield as a creature.
  
  
 ## Turn Phases:
@@ -115,43 +117,54 @@ If a creature is blocked, it will deal its damage and take the damage of its att
 Some abilities have a great impact on combat.
 - First Strike
  
-        A creature with this ability hits first, dealing damage before being dealt damage by non-first strike creatures.
- 
+        A creature with this ability hits first, dealing damage before being dealt 
+        damage by non-first strike creatures.
+
         EX:
-        Imagine a Master Swordsman fighting a Regular Swordsman. They are faster and can hit first. This is essentially first strike.
- 
-        If two creatures with first strike fight each other, their First strike abilities will basically cancel out.
+        Imagine a Master Swordsman fighting a Regular Swordsman. 
+        They are faster and can hit first. This is essentially first strike.
+
+        If two creatures with first strike fight each other, 
+        their First strike abilities will basically cancel out.
  
 - Double Strike
  
         This is First strike combined with regular strike.
  
-        Creatures with this ability can attack a player, kill a weaker blocking creature AND deal damage 
-        with the second hit where a First strike or Regular strike creature would only defeat the weaker creature.
+        Creatures with this ability can attack a player, 
+        kill a weaker blocking creature AND deal damage 
+        with the second hit where a First strike or Regular 
+        strike creature would only defeat the weaker creature.
  
 - Trample
  
-        This ability means that "leftover" damage from a creature blocking a creature with Trample will move on to hit the player.
+        This ability means that "leftover" damage from a creature 
+        blocking a creature with Trample will move on to hit the player.
  
         EX:
         Imagine a bullet traveling towards a person wearing a kevlar vest.
-        The bullet is the creature with trample, the vest is the blocking creature, and the person 
-        the vest is the defending player.
+        The bullet is the creature with trample, the vest is the blocking creature, 
+        and the person the vest is the defending player.
  
-        Any force not absorbed by the vest will travel into the person wearing it, causing harm. That's Trample.
+        Any force not absorbed by the vest will travel into the person wearing it, 
+        causing harm. 
+        That's Trample.
  
 - Vigilance
         A creature with Vigilance will not Tap when attacking.
  
-        Fighting is hard work and makes most creatures so tired they cannot block when tapped.
+        Fighting is hard work and makes most creatures so tired 
+        they cannot block when tapped.
  
-        Creatures with Vigilance don't tap and can attack for combat then be assigned 
-        as a defender should their player be attacked next turn.
+        Creatures with Vigilance don't tap and can attack for combat 
+        then be assigned as a defender should their player be attacked next turn.
  
 - Deathtouch
  
-        Any damage dealt by a creature with deathtouch will kill another creature (unless they are invulnerable).
-        Doesn't matter how strong a creature is, if the deathtouch damage hits em’ they're toast.(unless they are invulnerable)
+        Any damage dealt by a creature with deathtouch will kill another 
+        creature (unless they are invulnerable).
+        Doesn't matter how strong a creature is, if the deathtouch 
+        damage hits em’ they're toast.(unless they are invulnerable)
  
 > End of Combat Step
  
@@ -163,18 +176,27 @@ Some abilities have a great impact on combat.
  
 This is another phase in which you can play any spell but some have special interactions when played after somethings happen (like damage to a player, a creature dying, etc) so their effects can be maximized by smart plays.
  
-    For example, you have a weak 1/1 creature and your opponent has a 10/10. 
-    You attack with the 1/1 and your opponent blocks the damage, assigning lethal damage to the 1/1 and killing it. 
-    Then in the second main phase you play a spell called Tragic Slip...
+    For example, you have a weak 1/1 creature 
+    and your opponent has a 10/10. 
+    You attack with the 1/1 and your opponent
+     blocks the damage, assigning lethal damage 
+     to the 1/1 and killing it. 
+    Then in the second main phase you play a 
+    spell called Tragic Slip...
  
         Tragic slip - B - Instant
  
         Target creature gets -1/-1 until the end of turn.
  
-        Morbid — That creature gets -13/-13 until the end of turn instead if a creature died this turn.
+        Morbid — That creature gets -13/-13 until the end of 
+        turn instead if a creature died this turn.
  
-    Because the 1/1 died, the Morbid ability is allowed to trigger, thus giving the 10/10 with one damage a -13/13 to its power and toughness. 
-    This will reduce the creature's toughness to below or equal to zero and kill the big scary creature all for just one weak 1/1 and one Black Mana.
+    Because the 1/1 died, the Morbid ability is allowed to trigger, 
+    thus giving the 10/10 with one damage a -13/13 to its power and 
+    toughness. 
+    This will reduce the creature's toughness to below or equal to 
+    zero and kill the big scary creature all for just one weak 1/1 
+    and one Black Mana. Very Efficient.
  
 # Ending Phase ( 2 parts ):
  
@@ -189,12 +211,18 @@ Spells and abilities may be played during this step only if the conditions for a
 Basically - This is the step where damage/defense stats of creatures reset all nice and tidy before the next player takes a turn.
  
     Damage Example:
-        A 5/5 Bear attacks a Player who uses a 3/3 Elk to block. The Bear does not have trample and all of the damage goes to the Elk.
+        A 5/5 Bear attacks a Player who uses a 3/3 Elk to block. 
+        The Bear does not have trample and all of the damage goes to the Elk.
 
-        Until the cleanup step at the end of the turn, The Bear will have 3 damage assigned to it meaning that if it takes 2 more damage, it will die.
+        Until the cleanup step at the end of the turn, The Bear 
+        will have 3 damage assigned to it meaning that if it takes
+         2 more damage, it will die.
 
-        This isn't super prevalent but in decks (usually Red) that deal damage with spells, 
-        it can be used in conjunction with blocking strong creatures with weak creatures in order to trick the opponent into allowing their creature to take damage.
+        This isn't super prevalent but in decks (usually Red) 
+        that deal damage with spells, 
+        it can be used in conjunction with blocking strong creatures
+         with weak creatures in order to trick the opponent into 
+          their creature to take damage.
    
  
 
