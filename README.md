@@ -5,7 +5,8 @@ Tips and Guidelines for Slapping with Samurai
  
 Every rule has cards that can stop it from happening normally. In MTG cards that say “don’t” do something always overpower cards that say “do” something.
  
-    EX: A card says everyone draws 3 extra cards instead of one at the draw step, however another card says players Do Not draw extra cards. This means players do not draw extra cards.
+    EX: A card says everyone draws 3 extra cards instead of one at the draw step, however another card 
+    says players Do Not draw extra cards. This means players do not draw extra cards.
  
 So when you see a rule, just know that it stands until otherwise changed by a card.
 So when you see a rule, just know that it stands until otherwise changed by a card.
