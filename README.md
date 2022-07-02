@@ -5,8 +5,7 @@ Tips and Guidelines for Slapping with Samurai
  
 Every rule has cards that can stop it from happening normally. In MTG cards that say “don’t” do something always overpower cards that say “do” something.
  
-    EX: A card says everyone draws 3 extra cards instead of one at the draw step, however another card 
-    says players Do Not draw extra cards. This means players do not draw extra cards.
+    EX: A card says everyone draws 3 extra cards instead of one at the draw step, however another card says players Do Not draw extra cards. This means players do not draw extra cards.
  
 So when you see a rule, just know that it stands until otherwise changed by a card.
 So when you see a rule, just know that it stands until otherwise changed by a card.
@@ -125,7 +124,8 @@ Some abilities have a great impact on combat.
  
         This is First strike combined with regular strike.
  
-        Creatures with this ability can attack a player, kill a weaker blocking creature AND deal damage with the second hit where a First strike or Regular strike creature would only defeat the weaker creature.
+        Creatures with this ability can attack a player, kill a weaker blocking creature AND deal damage 
+        with the second hit where a First strike or Regular strike creature would only defeat the weaker creature.
  
 - Trample
  
@@ -133,7 +133,8 @@ Some abilities have a great impact on combat.
  
         EX:
         Imagine a bullet traveling towards a person wearing a kevlar vest.
-        The bullet is the creature with trample, the vest is the blocking creature, and the person wearing the vest is the defending player.
+        The bullet is the creature with trample, the vest is the blocking creature, and the person 
+        the vest is the defending player.
  
         Any force not absorbed by the vest will travel into the person wearing it, causing harm. That's Trample.
  
@@ -142,7 +143,8 @@ Some abilities have a great impact on combat.
  
         Fighting is hard work and makes most creatures so tired they cannot block when tapped.
  
-        Creatures with Vigilance don't tap and can attack for combat then be assigned as a defender should their player be attacked next turn.
+        Creatures with Vigilance don't tap and can attack for combat then be assigned 
+        as a defender should their player be attacked next turn.
  
 - Deathtouch
  
@@ -159,7 +161,9 @@ Some abilities have a great impact on combat.
  
 This is another phase in which you can play any spell but some have special interactions when played after somethings happen (like damage to a player, a creature dying, etc) so their effects can be maximized by smart plays.
  
-    For example, you have a weak 1/1 creature and your opponent has a 10/10. You attack with the 1/1 and your opponent blocks the damage, assigning lethal damage to the 1/1 and killing it. Then in the second main phase you play a spell called Tragic Slip...
+    For example, you have a weak 1/1 creature and your opponent has a 10/10. 
+    You attack with the 1/1 and your opponent blocks the damage, assigning lethal damage to the 1/1 and killing it. 
+    Then in the second main phase you play a spell called Tragic Slip...
  
         Tragic slip - B - Instant
  
@@ -167,7 +171,8 @@ This is another phase in which you can play any spell but some have special inte
  
         Morbid — That creature gets -13/-13 until the end of turn instead if a creature died this turn.
  
-    Because the 1/1 died, the Morbid ability is allowed to trigger, thus giving the 10/10 with one damage a -13/13 to its power and toughness. This will reduce the creature's toughness to below or equal to zero and kill the big scary creature all for just one weak 1/1 and one Black Mana.
+    Because the 1/1 died, the Morbid ability is allowed to trigger, thus giving the 10/10 with one damage a -13/13 to its power and toughness. 
+    This will reduce the creature's toughness to below or equal to zero and kill the big scary creature all for just one weak 1/1 and one Black Mana.
  
 # Ending Phase ( 2 parts ):
  
@@ -183,8 +188,11 @@ Basically - This is the step where damage/defense stats of creatures reset all n
  
     Damage Example:
         A 5/5 Bear attacks a Player who uses a 3/3 Elk to block. The Bear does not have trample and all of the damage goes to the Elk.
+
         Until the cleanup step at the end of the turn, The Bear will have 3 damage assigned to it meaning that if it takes 2 more damage, it will die.
-        This isn't super prevalent but in decks (usually Red) that deal damage with spells, it can be used in conjunction with blocking strong creatures with weak creatures in order to trick the opponent into allowing their creature to take damage.
+
+        This isn't super prevalent but in decks (usually Red) that deal damage with spells, 
+        it can be used in conjunction with blocking strong creatures with weak creatures in order to trick the opponent into allowing their creature to take damage.
    
  
 
